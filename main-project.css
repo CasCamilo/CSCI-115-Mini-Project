@@ -1,0 +1,36 @@
+/* Cassius Galdames - 658249511 */
+body {
+    background-image: url(img/black-metal-bg.jpg);
+    background-repeat: repeat;   
+    background-attachment: scroll;
+    background-position: center;
+    margin: 0px;
+}
+
+img {
+    border: 2px solid white;
+}
+
+table {
+    background-color: black;
+    margin: 20px;
+}
+
+th {
+    font-size: 25px;
+    color: white;
+}
+
+td {
+    font-size: 24px;
+    color: white;
+}
+
+li {
+    margin: 20px;
+    text-align: justify;
+}
+
+hr {
+    color: white;
+}
